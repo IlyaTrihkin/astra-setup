@@ -25,6 +25,25 @@
 ```bash
 chmod +x astra-setup.sh
 ./astra-setup.sh
+```
 
-📌 Примечание
-Скрипт разработан для Astra Linux Common Edition 2.12, но может работать и на других версиях.
+---
+
+## 👤 Автор
+
+Илья Тришкин — специалист по информационной безопасности.
+
+#### GitHub: 
+https://github.com/IlyaTrihkin
+
+#### TenChat: 
+https://tenchat.ru/ilya_trishkin
+
+#### Habr: 
+https://habr.com/ru/users/ilya_trishkin
+
+---
+
+## 📄 Лицензия
+
+Этот проект распространяется под лицензией MIT. Подробнее см. [LICENSE](LICENSE).
